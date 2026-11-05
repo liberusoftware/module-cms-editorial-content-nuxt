@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-editorial-content-nuxt",
+  "capabilityKey": "planned:cms:editorial-content",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-editorial-content-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/editorial-content.md",
+  "presentationPlan": "projects/cms/nuxt/editorial-content.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
